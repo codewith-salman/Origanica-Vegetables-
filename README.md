@@ -20,7 +20,6 @@ Built with a modern layout, vibrant visuals, and clean typography — perfectly 
 It combines a green-themed aesthetic with user-friendly navigation and responsive design to provide a seamless shopping or browsing experience across all devices.  
 Ideal for eco-conscious brands looking to build an online identity that reflects nature, purity, and trust.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
