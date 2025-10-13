@@ -14,7 +14,7 @@ Built with a modern layout, vibrant visuals, and clean typography — perfectly 
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Oraginca/assets/images/desktop.png" alt="Organica Desktop Screenshot" width="100%" style="border-radius: 12px; margin-bottom: 10px;"/>
+<img src="Oraginca%20Vegetables%20website/assets/images/desktop.png" alt="Organica Desktop Screenshot" width="100%" />
 
 **Organica** is a beautifully designed website concept for showcasing **fresh produce**, **organic vegetables**, and **farm-to-table products**.  
 It combines a green-themed aesthetic with user-friendly navigation and responsive design to provide a seamless shopping or browsing experience across all devices.  
