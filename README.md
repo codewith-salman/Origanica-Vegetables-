@@ -4,11 +4,11 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/nike-product-detail-card)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/nike-product-detail-card?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/nike-product-detail-card?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/organica-vegetables-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/organica-vegetables-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/organica-vegetables-website?style=social)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://nike-product-detail-card.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](YOUR-DEPLOYED-LINK)
 
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
@@ -18,17 +18,17 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Nike%20Product%20Card/favicon.svg" alt="Nike Product Card Logo" width="200"/>
+<img src="Oraginca%20Vegetables%20website/assets/images/logo.png" alt="Organica Logo" width="120"/>
 
 <br />
 <br />
 
-<h1 align="center">👟 Nike Product Card</h1>
+<h1 align="center">🥬 Organica – Organic Vegetables Website</h1>
 
-A stylish, modern, and fully responsive **Nike Product Card UI**  
+A fresh, eco-friendly, and fully responsive **Organic Vegetables Website**  
 built using **HTML, CSS, and JavaScript**.
 
-<a href="https://nike-product-detail-card.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="YOUR-DEPLOYED-LINK"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -49,26 +49,26 @@ built using **HTML, CSS, and JavaScript**.
 
 ## 📖 About The Project
 
-<img src="Nike%20Product%20Card/assets/images/desktop.png" alt="Nike Product Card Desktop Screenshot" width="100%" />
+<img src="Oraginca%20Vegetables%20website/assets/images/desktop.png" alt="Organica Desktop Screenshot" width="100%" />
 
-**Nike Product Card** is a modern and visually appealing product showcase component designed to highlight Nike shoes and other branded products.
+**Organica** is a modern and responsive organic vegetables website designed to showcase fresh produce, organic products, and farm-to-table offerings.
 
 The layout focuses on:
 
-- Clean and minimal product presentation
-- Modern typography and Nike-inspired branding
-- Smooth hover and transition animations
-- Responsive design across different screen sizes
-- Clear and engaging product-focused UI
+- Fresh and nature-inspired visual design
+- Clean and organized content presentation
+- Vibrant imagery and green-themed aesthetics
+- Responsive layouts across different screen sizes
+- User-friendly navigation and visual hierarchy
 
-This project demonstrates the ability to create **modern eCommerce interfaces**, design interactive product components, and deliver polished responsive layouts.
+This project demonstrates the ability to build **modern food and agriculture websites**, create visually engaging interfaces, and deliver responsive experiences with a strong focus on usability.
 
 Ideal for:
 
-- eCommerce websites
-- Product showcase pages
-- Online fashion and footwear stores
-- Product galleries
+- Organic farms and agricultural businesses
+- Grocery and fresh produce stores
+- Healthy food brands
+- Farm-to-table businesses
 - Front-end UI and responsive design practice
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -77,14 +77,14 @@ Ideal for:
 
 ## ✨ Features
 
-- Fully responsive product card layout
-- Clean and modern product presentation
+- Fully responsive organic vegetables website
+- Nature-inspired UI theme
+- Clean and modern layout
+- Fresh and vibrant visual presentation
+- Organized product-focused sections
 - Smooth hover and transition effects
-- Modern typography and branding
-- Minimal and professional interface
-- Interactive product-focused design
 - Lightweight and easy to customize
-- Suitable for eCommerce product pages
+- Easy to extend for eCommerce functionality
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
