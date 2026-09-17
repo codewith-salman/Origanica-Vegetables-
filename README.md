@@ -8,7 +8,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/codewith-salman/organica-vegetables-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/organica-vegetables-website?style=social)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](YOUR-DEPLOYED-LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://origanica-vegetables.vercel.app/)
 
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
@@ -28,7 +28,7 @@
 A fresh, eco-friendly, and fully responsive **Organic Vegetables Website**  
 built using **HTML, CSS, and JavaScript**.
 
-<a href="YOUR-DEPLOYED-LINK"><strong>➥ Live Demo</strong></a>
+<a href="https://origanica-vegetables.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
