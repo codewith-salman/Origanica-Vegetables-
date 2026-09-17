@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Nike%20Product%20Card/assets/images/logo.svg" alt="Nike Product Card Logo" width="200"/>
+<img src="Nike%20Product%20Card/favicon.svg" alt="Nike Product Card Logo" width="200"/>
 
 <br />
 <br />
