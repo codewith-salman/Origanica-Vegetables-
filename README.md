@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/organica-vegetables-website)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/organica-vegetables-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/organica-vegetables-website?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/origanica-vegetables-website)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/origanica-vegetables-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/origanica-vegetables-website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://origanica-vegetables.vercel.app/)
 
@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Oraginca%20Vegetables%20website/assets/images/logo.png" alt="Organica Logo" width="120"/>
+<img src="Oraginca%20Vegetables%20website/favicon.svg" alt="Organica Logo" width="120"/>
 
 <br />
 <br />
@@ -71,8 +71,6 @@ Ideal for:
 - Farm-to-table businesses
 - Front-end UI and responsive design practice
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -86,8 +84,6 @@ Ideal for:
 - Lightweight and easy to customize
 - Easy to extend for eCommerce functionality
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -97,8 +93,6 @@ This project is built using:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
